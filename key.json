@@ -46,7 +46,7 @@
     "DPMods-74B3UW": {
       "hwid": "RESET",
       "expireDate": "2025-10-08",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
